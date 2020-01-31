@@ -6,6 +6,7 @@
 int main()
 {
 	somthing anyOne;
+	somthing anyTwo;
 	sClass anyTwo;
 	
 	
